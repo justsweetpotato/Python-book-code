@@ -6,8 +6,8 @@ from blog.models import BlogPost, BlogPostForm
 
 # Create your views here.
 def index(request):
-    return render(request, 'index.html')
-    # return HttpResponseRedirect('/blog')
+    # return render(request, 'index.html')
+    return HttpResponseRedirect('/blog/')
 
 
 def archive(request):
