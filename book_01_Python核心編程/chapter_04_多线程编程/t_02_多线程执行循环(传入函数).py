@@ -3,6 +3,7 @@
 from atexit import register
 import threading
 from time import sleep, ctime, time
+import sys
 
 loops = [4, 2]
 
