@@ -5,15 +5,15 @@ import pyperclip
 
 message = 'This is my secret message.'
 
-key = 13
+key = 7
 
 mode = 'encrypt'
 
-LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+LETTERS = '!"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ [\\] ^_`a bcdefghijklmnopqrstuvwxyz{|}~'
 
 translated = ''
 
-message = message.upper()
+# message = message.upper()
 
 for symbol in message:
     if symbol in LETTERS:
@@ -34,4 +34,5 @@ for symbol in message:
         translated += symbol
 
 print(translated)
-pyperclip.copy(translated)
+pyperclip.copy(translated)  # 复制到剪切板
+
