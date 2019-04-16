@@ -22,8 +22,8 @@ from socket import *
 
 def tcpClient(host="104.128.94.100", port=7890):
     tcpCliScok = socket(AF_INET, SOCK_STREAM)
-    print(host)
-    print(port)
+    # print(host)
+    # print(port)
     tcpCliScok.connect((host, port))
     print("已连接服务器 ('{}', {})".format(host, port))
 
