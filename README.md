@@ -1,7 +1,7 @@
 ### Python 学习书籍 之 代码
 
 <a href="https://github.com/justsweetpotato/Python-book-code/tree/master/book_01_Python%E6%A0%B8%E5%BF%83%E7%B7%A8%E7%A8%8B">Python 核心编程</a><br>
-<i>内容全面.(略有过时, 有些 Python 2 中很有效的优化代码在 Python 3 中已经被优化过了.)</i>
+<i>内容全面(略有过时, 有些 Python 2 中很有效的优化代码在 Python 3 中已经被优化过了).</i>
 
 
 <a href="https://github.com/justsweetpotato/Python-book-code/tree/master/book_05_Python%E5%AF%86%E7%A0%81%E5%AD%A6%E7%BC%96%E7%A8%8B">Python 密码学编程</a><br>
