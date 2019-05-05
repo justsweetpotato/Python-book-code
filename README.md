@@ -12,3 +12,5 @@
 <i>"脚本小子和职业黑客的区别是编写自己的工具, 少用别人开发的工具."  —— 查理·米勒</i><br>
 
 
+<a href="https://github.com/justsweetpotato/Python-book-code/tree/master/book_08_%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81">编写高质量代码: 改善 Python 程序的 91 个建议</a><br>
+<i>Very nice!</i>
