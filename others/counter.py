@@ -7,5 +7,5 @@ some_data = [1, 1, 2, 3, "1", "1", "2"]
 
 result = Counter(some_data)
 
-print(result)
-
+if __name__ == '__main__':
+    print(result)

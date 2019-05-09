@@ -11,4 +11,5 @@ for item in some_data:
     else:
         count_dict[item] = 1
 
-print(count_dict)
+if __name__ == '__main__':
+    print(count_dict)
