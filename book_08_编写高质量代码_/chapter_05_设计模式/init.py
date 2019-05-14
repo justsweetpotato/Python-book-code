@@ -15,7 +15,8 @@ class B(A):
 
     # 显示继承父类的 __init__
     def __init__(self):
-        super(B, self).__init__()
+        # super(B, self).__init__()
+        super().__init__()
 
 
 b = B()

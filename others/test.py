@@ -31,10 +31,36 @@ def get_FileModifyTime(filePath):
     return TimeStampToTime(t)
 
 
+class P(object):
+    def __init__(self, x, y):
+        self.x, self.y = x, y
+
+    def __str__(self):
+        return "OK" + str(self.x) + str(self.y)
+
+
+def my_coroutine():
+    while True:
+        received = yield
+        print('Received:', received)
+
+
+def minimize():
+    current = yield
+    while True:
+        value = yield current
+        current = min(value, current)
+
+
 if __name__ == '__main__':
-    print(get_FileCreateTime('./1.txt'))
-    print(get_FileCreateTime('./3.txt'))
-    print(get_FileModifyTime('./1.txt'))
-    print(get_FileModifyTime('./3.txt'))
-    print(get_FileAccessTime('./1.txt'))
-    print(get_FileSize('./1.txt'))
+    it = my_coroutine()
+    next(it)
+    it.send("First")
+    it.send("Second")
+    print('*' * 50)
+    it = minimize()
+    next(it)
+    print(it.send(10))
+    print(it.send(4))
+    print(it.send(20))
+    print(it.send(-1))
