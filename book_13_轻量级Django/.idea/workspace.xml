@@ -15,10 +15,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project1/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="158">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,12 +104,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557997171815</updated>
-      <workItem from="1557997173241" duration="809000" />
+      <workItem from="1557997173241" duration="1431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="809000" />
+    <option name="totallyTimeSpent" value="1431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="7" />
@@ -143,10 +143,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project1/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="158">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
