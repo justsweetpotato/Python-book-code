@@ -4,7 +4,7 @@ from django.conf import settings
 
 DEBUG = os.environ.get('DEBUG', 'on') == 'on'
 
-SECRET_KEY = os.environ.get('SECRET_KEY', 'n_qm=$36ceu3krf0!@v6&i=a6z5+=v$tqk44^@0(r%@08nib=7')
+SECRET_KEY = os.environ.get('SECRET_KEY', '7yx9vwoi@wz3hp&8_eiai&cqoa2h^h*!%nkj88-mt*lw79z9mt')
 
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
 
@@ -25,12 +25,18 @@ from django.http import HttpResponse
 from django.core.wsgi import get_wsgi_application
 
 
+def placeholder(request, width, height):
+    # TODO: Rest of the view will go here
+    return HttpResponse('OK')
+
+
 def index(request):
-    return HttpResponse("<h3>Hello World<h3>")
+    return HttpResponse("<h3>Hello World!<h3>")
 
 
 urlpatterns = (
-    url(r"^$", index),
+    url(r'^image/(?P<width>[0-9]+)x(?P<height>[0-9]+)/$', placeholder, name='placeholder'),
+    url(r'^$', index, name='homepage'),
 )
 
 application = get_wsgi_application()

@@ -25,12 +25,18 @@ from django.http import HttpResponse
 from django.core.wsgi import get_wsgi_application
 
 
+def placeholder(request, width, height):
+    # TODO: Rest of the view will go here
+    return HttpResponse('OK')
+
+
 def index(request):
-    return HttpResponse("<h3>Hello World<h3>")
+    return HttpResponse("<h3>Hello World!<h3>")
 
 
 urlpatterns = (
-    url(r"^$", index),
+    url(r'^image/(?P<width>[0-9]+)x(?P<height>[0-9]+)/$', placeholder, name='placeholder'),
+    url(r'^$', placeholder, name='homepage'),
 )
 
 application = get_wsgi_application()
