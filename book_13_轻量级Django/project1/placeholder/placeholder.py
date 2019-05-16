@@ -9,6 +9,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '7yx9vwoi@wz3hp&8_eiai&cqoa2h^h*!%nkj8
 
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
 
+BASE_DIR = os.path.dirname(__file__)
+
 settings.configure(
     DEBUG=DEBUG,
     SECRET_KEY=SECRET_KEY,
@@ -19,6 +21,19 @@ settings.configure(
         'django.middleware.csrf.CsrfViewMiddleware',
         'django.middleware.clickjacking.XFrameOptionsMiddleware',
     ),
+    INSTALLED_APPS=(
+        'django.contrib.staticfiles',
+    ),
+    TEMPLATES=(
+        {
+            'BACKEND': 'django.template.backends.django.DjangoTemplates',
+            'DIRS': (os.path.join(BASE_DIR, 'templates'),),
+        },
+    ),
+    STATICFILES_DIRS=(
+        os.path.join(BASE_DIR, 'static'),
+    ),
+    STATIC_URL='/static/',
 )
 
 from django import forms
@@ -29,6 +44,8 @@ from io import BytesIO
 from PIL import Image, ImageDraw
 from django.core.cache import cache
 from django.views.decorators.http import etag
+from django.core.urlresolvers import reverse
+from django.shortcuts import render
 
 
 class ImageForm(forms.Form):
@@ -46,7 +63,7 @@ class ImageForm(forms.Form):
         if content is None:
             image = Image.new('RGB', (width, height))
             draw = ImageDraw.Draw(image)
-            text = '{} X {}\nHello World'.format(width, height)
+            text = '{} X {}'.format(width, height)
             textwidth, textheight = draw.textsize(text)
             if textwidth < width and textheight < height:
                 texttop = (height - textheight) // 2
@@ -75,7 +92,11 @@ def placeholder(request, width, height):
 
 
 def index(request):
-    return HttpResponse("<h3>Hello World!<h3>")
+    example = reverse('placeholder', kwargs={'width': 50, 'height': 50})
+    context = {
+        'example': request.build_absolute_uri(example)
+    }
+    return render(request, 'home.html', context)
 
 
 urlpatterns = (
