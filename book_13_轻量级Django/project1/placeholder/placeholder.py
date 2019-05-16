@@ -4,7 +4,7 @@ from django.conf import settings
 
 DEBUG = os.environ.get('DEBUG', 'on') == 'on'
 
-SECRET_KEY = os.environ.get('SECRET_KEY', '{{ secret_key }}')
+SECRET_KEY = os.environ.get('SECRET_KEY', 'n_qm=$36ceu3krf0!@v6&i=a6z5+=v$tqk44^@0(r%@08nib=7')
 
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
 
