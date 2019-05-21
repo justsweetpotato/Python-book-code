@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9e195c9-aafb-4ed5-bbf8-d23a2b8002fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project2/pages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/pages/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/sitebuilder/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/sitebuilder/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/sitebuilder/management/commands/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/sitebuilder/templates/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/sitebuilder/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/sitebuilder/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/book_13_轻量级Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/book_13_轻量级Django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/placeholder/placeholder.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/placeholder/placeholder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,58 +22,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/hello.py">
+        <entry file="file://$PROJECT_DIR$/project2/sitebuilder/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            <state relative-caret-position="157">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project2/sitebuilder/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#47#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project1/placeholder/placeholder.py">
+        <entry file="file://$PROJECT_DIR$/project2/pages/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/placeholder/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-              <folding>
-                <element signature="e#675#679#0#HTML" expanded="true" />
-                <element signature="e#684#688#0#HTML" expanded="true" />
-                <element signature="e#689#693#0#HTML" expanded="true" />
-                <element signature="e#699#703#0#HTML" expanded="true" />
-                <element signature="e#755#759#0#HTML" expanded="true" />
-                <element signature="e#783#787#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project1/placeholder/static/site.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="680">
+              <caret line="70" column="6" lean-forward="true" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -76,23 +74,30 @@
         <option value="$PROJECT_DIR$/project1/placeholder/templates/home.html" />
         <option value="$PROJECT_DIR$/project1/placeholder/static/site.css" />
         <option value="$PROJECT_DIR$/project1/placeholder/placeholder.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/project2/test.py" />
+        <option value="$PROJECT_DIR$/project2/sitebuilder/urls.py" />
+        <option value="$PROJECT_DIR$/project2/sitebuilder/static/css/site.css" />
+        <option value="$PROJECT_DIR$/project2/sitebuilder/templates/page.html" />
+        <option value="$PROJECT_DIR$/project2/pages/index.html" />
+        <option value="$PROJECT_DIR$/project2/pages/login.html" />
+        <option value="$PROJECT_DIR$/project2/pages/contact.html" />
+        <option value="$PROJECT_DIR$/project2/prototypes.py" />
+        <option value="$PROJECT_DIR$/project2/sitebuilder/management/commands/build.py" />
+        <option value="$PROJECT_DIR$/project2/sitebuilder/views.py" />
+        <option value="$PROJECT_DIR$/project2/sitebuilder/templates/base.html" />
+        <option value="$PROJECT_DIR$/project2/pages/pricing.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="665" />
-    <option name="y" value="80" />
+    <option name="x" value="683" />
+    <option name="y" value="27" />
     <option name="width" value="683" />
     <option name="height" value="741" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,26 +114,25 @@
             <path>
               <item name="book_13_轻量级Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_13_轻量级Django" type="462c0819:PsiDirectoryNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="book_13_轻量级Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_13_轻量级Django" type="462c0819:PsiDirectoryNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="placeholder" type="462c0819:PsiDirectoryNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="book_13_轻量级Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_13_轻量级Django" type="462c0819:PsiDirectoryNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="placeholder" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="sitebuilder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="book_13_轻量级Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_13_轻量级Django" type="462c0819:PsiDirectoryNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="placeholder" type="462c0819:PsiDirectoryNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+              <item name="sitebuilder" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -138,6 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -157,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.placeholder">
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="book_13_轻量级Django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,8 +185,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="placeholder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="book_13_轻量级Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project1/placeholder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1/placeholder/placeholder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.placeholder" />
         <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
@@ -196,25 +224,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557997171815</updated>
-      <workItem from="1557997173241" duration="10923000" />
+      <workItem from="1557997173241" duration="12437000" />
+      <workItem from="1558320204124" duration="4000" />
+      <workItem from="1558324508726" duration="22000" />
+      <workItem from="1558324650999" duration="1000" />
+      <workItem from="1558324702034" duration="17526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10923000" />
+    <option name="totallyTimeSpent" value="29990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="7" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24961832" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22824427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
@@ -222,17 +248,24 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3305369" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/book_13_Django$placeholder.coverage" NAME="placeholder Coverage Results" MODIFIED="1558324931091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project1/placeholder" />
     <SUITE FILE_PATH="coverage/book_13_Django$hello.coverage" NAME="hello Coverage Results" MODIFIED="1558000331931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project1" />
   </component>
   <component name="editorHistoryManager">
@@ -246,28 +279,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project1/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project1/placeholder/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding>
-            <element signature="e#675#679#0#HTML" expanded="true" />
-            <element signature="e#684#688#0#HTML" expanded="true" />
-            <element signature="e#689#693#0#HTML" expanded="true" />
-            <element signature="e#699#703#0#HTML" expanded="true" />
-            <element signature="e#755#759#0#HTML" expanded="true" />
-            <element signature="e#783#787#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -278,15 +293,157 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project1/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project1/placeholder/placeholder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="-1706">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/project_name/project_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/sitebuilder/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#46#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/sitebuilder/static/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/sitebuilder/templates/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#574#580#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/prototypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project2/sitebuilder/management/commands/build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="48" column="63" selection-start-line="48" selection-start-column="63" selection-end-line="48" selection-end-column="63" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/_build/static/CACHE/css/316ce48d9370.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/_build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/sitebuilder/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/sitebuilder/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/pages/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="70" column="6" lean-forward="true" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
