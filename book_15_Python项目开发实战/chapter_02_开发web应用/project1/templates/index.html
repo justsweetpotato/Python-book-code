@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>留言板</title>
+    <link rel="stylesheet" href="/static/main.css" type="text/css">
+</head>
+<body>
+<h1>留言板</h1>
+<form action="/post" method="post">
+    <p>请留言</p>
+    <table>
+        <tr>
+            <th>名字</th>
+            <td>
+                <input type="text" size="30" name="name" placeholder="请输入姓名" required>
+            </td>
+        </tr>
+        <tr>
+            <th>留言</th>
+            <td>
+                <textarea name="comment" id="" cols="40" rows="5" required placeholder="请输入内容"></textarea>
+            </td>
+        </tr>
+    </table>
+    <p>
+        <button type="submit">提交</button>
+    </p>
+</form>
+<div class="entries-area">
+    <h2>留言记录</h2>
+    {% for greeting in greeting_list %}
+        <h3>{{ greeting.name }} 的留言（{{ greeting.create_at|datetime_fmt }}）:</h3>
+        <p>{{ greeting.comment|nl2br }}</p>
+    {% endfor %}
+</div>
+</body>
+</html>
