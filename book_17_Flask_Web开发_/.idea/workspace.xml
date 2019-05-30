@@ -2,17 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94fb5596-4e43-4889-b82e-e8605608aea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/mail/new_user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/mail/new_user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/mail/new_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/mail/new_user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/tests/test_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_17_Flask_Web开发_/.idea/book_17_Flask_Web开发.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/.idea/book_17_Flask_Web开发.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_17_Flask_Web开发_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky" beforeDir="false" afterPath="$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +42,35 @@
       <set />
     </option>
     <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data-dev" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data-dev" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data-dev" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data-dev" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data-test" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data-test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="data.sqlite" type="feb32156:DbDataSourceImpl" />
@@ -59,13 +97,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/hello.py">
+        <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1534">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="96">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
-                <element signature="e#47#56#0" expanded="true" />
+                <element signature="e#0#74#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://c6f1b876-f929-4d5a-b7a3-3264a9f47bad/schema/main/table/roles">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://c6f1b876-f929-4d5a-b7a3-3264a9f47bad/schema/main/table/users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+              <filtering>
+                <filter text="" />
+              </filtering>
             </state>
           </provider>
         </entry>
@@ -75,8 +144,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -99,6 +168,18 @@
         <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/mail/new_user.txt" />
         <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/templates/mail/new_user.html" />
         <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/hello.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/config.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/app/main/__init__.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/app/__init__.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/app/main/errors.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/app/models.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/app/main/forms.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2/app/main/views.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/email.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/config.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/tests/test_basics.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/manage.py" />
+        <option value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/views.py" />
       </list>
     </option>
   </component>
@@ -131,14 +212,22 @@
               <item name="book_17_Flask_Web开发" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_17_Flask_Web开发_" type="462c0819:PsiDirectoryNode" />
               <item name="my_project" type="462c0819:PsiDirectoryNode" />
-              <item name="flasky" type="462c0819:PsiDirectoryNode" />
+              <item name="flasky2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="book_17_Flask_Web开发" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_17_Flask_Web开发_" type="462c0819:PsiDirectoryNode" />
               <item name="my_project" type="462c0819:PsiDirectoryNode" />
-              <item name="flasky" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="flasky2" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book_17_Flask_Web开发" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_17_Flask_Web开发_" type="462c0819:PsiDirectoryNode" />
+              <item name="my_project" type="462c0819:PsiDirectoryNode" />
+              <item name="flasky2" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="book_17_Flask_Web开发" type="b2602c69:ProjectViewProjectNode" />
@@ -150,6 +239,13 @@
               <item name="book_17_Flask_Web开发_" type="462c0819:PsiDirectoryNode" />
               <item name="real_project" type="462c0819:PsiDirectoryNode" />
               <item name="flasky" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book_17_Flask_Web开发" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_17_Flask_Web开发_" type="462c0819:PsiDirectoryNode" />
+              <item name="real_project" type="462c0819:PsiDirectoryNode" />
+              <item name="flasky" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,10 +261,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app" />
+      <recent name="$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flask2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -250,18 +352,17 @@
       <updated>1558933207245</updated>
       <workItem from="1558933208717" duration="329000" />
       <workItem from="1558933541283" duration="683000" />
-      <workItem from="1558934261532" duration="36191000" />
+      <workItem from="1558934261532" duration="46266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37203000" />
+    <option name="totallyTimeSpent" value="47278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.259542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.259542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" weight="0.32885906" />
@@ -276,7 +377,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33221477" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33221477" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32885906" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32977098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -295,25 +396,6 @@
     <SUITE FILE_PATH="coverage/book_17_Flask_Web$user_html.dat" NAME="user.html Coverage Results" MODIFIED="1558941921362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-592" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1738">
-          <caret line="843" column="8" selection-start-line="843" selection-start-column="8" selection-end-line="843" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/flask_script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/templates/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -353,24 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://1429cfad-b52d-4ce7-a936-7ee1143aaf91/schema/main/table/roles">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://1429cfad-b52d-4ce7-a936-7ee1143aaf91/schema/main/table/users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/templates/mail/new_user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -389,13 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1884">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -437,12 +494,287 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/sqlalchemy/orm/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1764" column="8" selection-start-line="1764" selection-start-column="8" selection-end-line="1764" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4252">
+          <caret line="604" column="6" selection-start-line="604" selection-start-column="6" selection-end-line="604" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/main/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/flask_bootstrap/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="127" column="8" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/flask/blueprints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5402">
+          <caret line="379" column="8" selection-start-line="379" selection-start-column="8" selection-end-line="379" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="e#46#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/main/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1534">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="280">
+          <caret line="106" lean-forward="true" selection-start-line="85" selection-start-column="4" selection-end-line="106" />
           <folding>
             <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/flasky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/flask/lib/python3.6/site-packages/flask/ctx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="215" column="8" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/tests/test_basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/real_project/flasky/app/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="das://c6f1b876-f929-4d5a-b7a3-3264a9f47bad/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <column-attributes>
+            <column name="rowid" enabled="false" position="-1" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6f1b876-f929-4d5a-b7a3-3264a9f47bad/schema/main/table/alembic_version">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1429cfad-b52d-4ce7-a936-7ee1143aaf91/schema/main/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1429cfad-b52d-4ce7-a936-7ee1143aaf91/schema/main/table/roles">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/templates/mail/new_user.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="e#47#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6f1b876-f929-4d5a-b7a3-3264a9f47bad/schema/main/table/roles">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c6f1b876-f929-4d5a-b7a3-3264a9f47bad/schema/main/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="68bb17b2-28c0-4d83-b115-adbad5abc1ef">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#46#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../book_17_Flask_Web开发_/my_project/flasky2/app/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
