@@ -3,7 +3,7 @@
 <a href="https://github.com/justsweetpotato/Python-book-code/tree/master/book_01_Python%E6%A0%B8%E5%BF%83%E7%B7%A8%E7%A8%8B">Python 核心编程</a><br>
 <i>内容全面(略有过时).</i>
 
-<a href="#">Python 语言及其应用 </a><br>
+<a href="https://github.com/justsweetpotato/Python-book-code/tree/master/book_18_Python%E8%AF%AD%E8%A8%80%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8">Python 语言及其应用 </a><br>
 <i>适合有其他语言基础的人入门 Python, 非常棒.</i><br>
 
 <a href="https://github.com/justsweetpotato/Python-book-code/tree/master/book_17_Flask_Web%E5%BC%80%E5%8F%91_">Flask Web 开发</a><br>
