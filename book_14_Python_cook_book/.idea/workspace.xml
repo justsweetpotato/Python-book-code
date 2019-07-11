@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c3a89fe-c11f-4bff-bbb4-95b6e92c21f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_17_2_补充.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_18_以编程方式定义类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_19_在定义的时候初始化类的成员.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_20_利用函数注解实现方法重载.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_21_避免重复的属性方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_22_2_补充.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_22_定义上下文管理器的简单方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_23_在局部变量域中执行代码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_24_解析与分析Python源码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_25_拆解Python字节码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_12_成为真正的Python开发者/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10_模块与包/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10_模块与包/code_02_控制模块被全部导入的内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10_模块与包/code_06_重新加载模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10_模块与包/code_12_导入模块的同时修改模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10_模块与包/spam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_04_PythonWeb开发测试驱动方法/chapter_01_使用功能测试协助安装Django/superlists" beforeDir="false" afterPath="$PROJECT_DIR$/../book_04_PythonWeb开发测试驱动方法/chapter_01_使用功能测试协助安装Django/superlists" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_06_Python黑帽子/Chapter07_/trojan" beforeDir="false" afterPath="$PROJECT_DIR$/../book_06_Python黑帽子/Chapter07_/trojan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/book_14_Python_cook_book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/book_14_Python_cook_book.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_09_元编程/code_17_在类上强制使用编程规约.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_09_元编程/code_17_在类上强制使用编程规约.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +32,7 @@
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_10_.coverage" NAME="code_10_为类方法和静态方法提供装饰器 Coverage Results" MODIFIED="1562210917478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_03.coverage" NAME="code_03 Coverage Results" MODIFIED="1560763633527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_01_数据结构和算法" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_06.coverage" NAME="code_06 Coverage Results" MODIFIED="1560763892965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_01_数据结构和算法" />
-    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_06_.coverage" NAME="code_06_创建可管理的属性 Coverage Results" MODIFIED="1561537530262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
+    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_06_.coverage" NAME="code_06_重新加载模块 Coverage Results" MODIFIED="1562838638035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10_模块与包" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$pytest_in_code_08__py.coverage" NAME="pytest in code_08_内联回调函数.py Coverage Results" MODIFIED="1561367207026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07_函数" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_25_.coverage" NAME="code_25_创建缓存实例 Coverage Results" MODIFIED="1561977152180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_13_3__.coverage" NAME="code_13_3_补充_元类实现缓存实例 Coverage Results" MODIFIED="1562314712093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
@@ -82,7 +76,7 @@
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_19_Mixins.coverage" NAME="code_19_利用Mixins扩展类功能 Coverage Results" MODIFIED="1561950893386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_test_2.coverage" NAME="code_test_2 Coverage Results" MODIFIED="1562213502843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_test_.coverage" NAME="code_test_综合装饰器 Coverage Results" MODIFIED="1562212376743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
-    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_12_.coverage" NAME="code_12_使用装饰器扩展类的功能 Coverage Results" MODIFIED="1562223214787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
+    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_12_.coverage" NAME="code_12_导入模块的同时修改模块 Coverage Results" MODIFIED="1562840560941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10_模块与包" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_06__.coverage" NAME="code_06_将单方法的类转换为函数闭包) Coverage Results" MODIFIED="1561362854594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07_函数" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_04_.coverage" NAME="code_04_定义一个带参数的装饰器 Coverage Results" MODIFIED="1562141186735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_08_property.coverage" NAME="code_08_子类中扩展property Coverage Results" MODIFIED="1561621336863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
@@ -158,7 +152,7 @@
           <entry key="json" value="2" />
           <entry key="log" value="2" />
           <entry key="portfolio" value="3" />
-          <entry key="py" value="222" />
+          <entry key="py" value="232" />
           <entry key="pyi" value="2" />
           <entry key="txt" value="18" />
           <entry key="xml" value="2" />
@@ -170,23 +164,23 @@
           <entry key="HTML" value="1" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="222" />
+          <entry key="Python" value="232" />
           <entry key="PythonStub" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="253" />
+          <entry key="dummy" value="269" />
           <entry key="html" value="81" />
-          <entry key="py" value="46707" />
+          <entry key="py" value="47574" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="81" />
-          <entry key="PLAIN_TEXT" value="253" />
-          <entry key="Python" value="46705" />
+          <entry key="PLAIN_TEXT" value="269" />
+          <entry key="Python" value="47572" />
           <entry key="RegExp" value="2" />
         </counts>
       </usages-collector>
@@ -194,11 +188,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_25_拆解Python字节码.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_06_重新加载模块.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#46#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_12_导入模块的同时修改模块.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+              <folding>
+                <element signature="e#47#63#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -219,15 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_22_通过字符串调用对象方法.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_23_实现访问者模式.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_23_循环引用数据结构的内存管理.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_24_补充.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_24_让类支持比较操作.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_25_创建缓存实例.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_26_补充.py" />
-        <option value="$PROJECT_DIR$/chapter_09_元编程/code_01_在函数上添加包装饰器.py" />
-        <option value="$PROJECT_DIR$/chapter_09_元编程/code_03_解除一个装饰器.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_02_创建装饰器时保留函数元信息.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_04_定义一个带参数的装饰器.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_05_可自定义属性的装饰器.py" />
@@ -270,6 +270,15 @@
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_23_在局部变量域中执行代码.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_24_解析与分析Python源码.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_25_拆解Python字节码.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_01_构建一个模块的层级包.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_03_使用相对路径名导入包中的子模块.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_04_将模块分割成多个文件.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_05_利用命名空间导入目录分散的代码.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/spam.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/__init__.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_07_运行目录或压缩文件.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_06_重新加载模块.py" />
+        <option value="$PROJECT_DIR$/chapter_10_模块与包/code_12_导入模块的同时修改模块.py" />
       </list>
     </option>
   </component>
@@ -280,8 +289,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="680" />
-    <option name="y" value="45" />
+    <option name="x" value="729" />
+    <option name="y" value="41" />
     <option name="width" value="698" />
     <option name="height" value="715" />
   </component>
@@ -303,12 +312,7 @@
             <path>
               <item name="book_14_Python_cook_book" type="b2602c69:ProjectViewProjectNode" />
               <item name="book_14_Python_cook_book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_09_元编程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="book_14_Python_cook_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="book_14_Python_cook_book" type="462c0819:PsiDirectoryNode" />
-              <item name="code_test" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_10_模块与包" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,8 +349,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code_25_拆解Python字节码">
-    <configuration name="code_20_利用函数注解实现方法重载" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.code_12_导入模块的同时修改模块">
+    <configuration name="code_06_重新加载模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="book_14_Python_cook_book" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,12 +358,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10_模块与包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_20_利用函数注解实现方法重载.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10_模块与包/code_06_重新加载模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_21_避免重复的属性方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="code_12_导入模块的同时修改模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="book_14_Python_cook_book" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -376,12 +380,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10_模块与包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_21_避免重复的属性方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10_模块与包/code_12_导入模块的同时修改模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -457,19 +461,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.code_20_利用函数注解实现方法重载" />
-      <item itemvalue="Python.code_21_避免重复的属性方法" />
       <item itemvalue="Python.code_22_定义上下文管理器的简单方法" />
       <item itemvalue="Python.code_22_2_补充" />
       <item itemvalue="Python.code_25_拆解Python字节码" />
+      <item itemvalue="Python.code_06_重新加载模块" />
+      <item itemvalue="Python.code_12_导入模块的同时修改模块" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code_12_导入模块的同时修改模块" />
+        <item itemvalue="Python.code_06_重新加载模块" />
         <item itemvalue="Python.code_25_拆解Python字节码" />
         <item itemvalue="Python.code_22_2_补充" />
         <item itemvalue="Python.code_22_定义上下文管理器的简单方法" />
-        <item itemvalue="Python.code_21_避免重复的属性方法" />
-        <item itemvalue="Python.code_20_利用函数注解实现方法重载" />
       </list>
     </recent_temporary>
   </component>
@@ -507,15 +511,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="45" width="697" height="715" extended-state="0" />
+    <frame x="729" y="41" width="698" height="715" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.47235388" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.47160885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960506" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3269565" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3269565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -565,79 +569,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_25_创建缓存实例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_26_补充.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_07_函数/code_04_lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_01_在函数上添加包装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_04_定义一个带参数的装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Tools/Python/Lib/functools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1440">
-          <caret line="233" column="6" selection-start-line="233" selection-start-column="6" selection-end-line="233" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_05_可自定义属性的装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#145#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_07_利用装饰器强制函数上的类型检查.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_06_带可选参数的装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_03_让对象支持上下文管理协议.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_09_创建新的类或实例属性(描述器).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-756">
@@ -918,8 +849,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_25_拆解Python字节码.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="378">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_02_控制模块被全部导入的内容.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_03_使用相对路径名导入包中的子模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_04_将模块分割成多个文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_05_利用命名空间导入目录分散的代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/spam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Tools/Python/Lib/imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2322" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_07_运行目录或压缩文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_06_重新加载模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#46#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10_模块与包/code_12_导入模块的同时修改模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="e#47#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
