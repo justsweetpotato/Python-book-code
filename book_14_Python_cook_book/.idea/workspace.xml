@@ -5,32 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c3a89fe-c11f-4bff-bbb4-95b6e92c21f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_01_在函数上添加包装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_02_创建装饰器时保留函数元信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_03_解除一个装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_04_定义一个带参数的装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_05_可自定义属性的装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_06_带可选参数的装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_07_利用装饰器强制函数上的类型检查.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_08_将装饰器定义为类的一部分_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_09_2_补充.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_09_将装饰器定义为类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_10_为类方法和静态方法提供装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_11_2_补充.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_11_装饰器为被包装函数增加参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_12_使用装饰器扩展类的功能.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_13_2_补充_元类实现单例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_13_3_补充_元类实现缓存实例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_13_使用元类控制实例的创建.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_test_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_test_综合装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_test/code_test_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_test/code_test_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_15_定义有可选参数的元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_16_-args和--kwargs的强制参数签名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09_元编程/code_17_在类上强制使用编程规约.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_11_并发和网络/xmlrpc_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_11_并发和网络/xmlrpc_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_12_成为真正的Python开发者/cap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_12_成为真正的Python开发者/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_12_成为真正的Python开发者/cities1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_12_成为真正的Python开发者/style1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/chapter_12_成为真正的Python开发者/test_cap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/附录B_工作中的python/bubbles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/附录B_工作中的python/zoo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_18_Python语言及其应用/附录B_工作中的python/zoo_counts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_04_PythonWeb开发测试驱动方法/chapter_01_使用功能测试协助安装Django/superlists" beforeDir="false" afterPath="$PROJECT_DIR$/../book_04_PythonWeb开发测试驱动方法/chapter_01_使用功能测试协助安装Django/superlists" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../book_06_Python黑帽子/Chapter07_/trojan" beforeDir="false" afterPath="$PROJECT_DIR$/../book_06_Python黑帽子/Chapter07_/trojan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +68,7 @@
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_07_heapq_merge.coverage" NAME="code_07 heapq.merge Coverage Results" MODIFIED="1560742709212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_09___.coverage" NAME="code_09_创建新的类或实例属性(描述器) Coverage Results" MODIFIED="1561627934549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_01.coverage" NAME="code_01 Coverage Results" MODIFIED="1560764425121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_02_字符串和文本" />
-    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_15_.coverage" NAME="code_15_属性的代理访问 Coverage Results" MODIFIED="1561713820151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
+    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_15_.coverage" NAME="code_15_定义有可选参数的元类 Coverage Results" MODIFIED="1562756372605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_26_.coverage" NAME="code_26_补充 Coverage Results" MODIFIED="1561978687219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_07_.coverage" NAME="code_07_利用装饰器强制函数上的类型检查 Coverage Results" MODIFIED="1562145074717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_07_xml.coverage" NAME="code_07_增量式解析大型xml文件 Coverage Results" MODIFIED="1560753085355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_06_数据编码和处理" />
@@ -93,7 +84,7 @@
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_06__.coverage" NAME="code_06_将单方法的类转换为函数闭包) Coverage Results" MODIFIED="1561362854594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07_函数" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_04_.coverage" NAME="code_04_定义一个带参数的装饰器 Coverage Results" MODIFIED="1562141186735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_08_property.coverage" NAME="code_08_子类中扩展property Coverage Results" MODIFIED="1561621336863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
-    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_14_.coverage" NAME="code_14_实现自定义容器 Coverage Results" MODIFIED="1561704046333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
+    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_14_.coverage" NAME="code_14_捕获类的属性定义顺序 Coverage Results" MODIFIED="1562754533682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_05_json_to_pyton.coverage" NAME="code_05_保留json_to_pyton时保留顺序 Coverage Results" MODIFIED="1560750056456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_06_数据编码和处理" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_20_.coverage" NAME="code_20_补充 Coverage Results" MODIFIED="1561953611305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_.coverage" NAME="code_正则替换数据 Coverage Results" MODIFIED="1561393326710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_test" />
@@ -106,6 +97,7 @@
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_04__.coverage" NAME="code_04_创建大量对象时节省内存的方法_ Coverage Results" MODIFIED="1561531823096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08_类与对象" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_03_csv_split.coverage" NAME="code_03_csv_split Coverage Results" MODIFIED="1560748341457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_06_数据编码和处理" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_11_16.coverage" NAME="code_11_编码和解码16进制数 Coverage Results" MODIFIED="1560760853433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_06_数据编码和处理" />
+    <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_16__args__kwargs.coverage" NAME="code_16_-args和--kwargs的强制参数签名 Coverage Results" MODIFIED="1562758882789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_06_yield_from.coverage" NAME="code_06_yield_from Coverage Results" MODIFIED="1560405572012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04_迭代器与生成器" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_07.coverage" NAME="code_07 Coverage Results" MODIFIED="1560764018164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_01_数据结构和算法" />
     <SUITE FILE_PATH="coverage/book_14_Python_cook_book$code_11_.coverage" NAME="code_11_装饰器为被包装函数增加参数 Coverage Results" MODIFIED="1562222341381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09_元编程" />
@@ -146,12 +138,13 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -161,7 +154,7 @@
           <entry key="html" value="1" />
           <entry key="json" value="2" />
           <entry key="portfolio" value="3" />
-          <entry key="py" value="205" />
+          <entry key="py" value="208" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="18" />
           <entry key="xml" value="2" />
@@ -173,7 +166,7 @@
           <entry key="HTML" value="1" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="205" />
+          <entry key="Python" value="208" />
           <entry key="PythonStub" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -182,14 +175,14 @@
         <counts>
           <entry key="dummy" value="253" />
           <entry key="html" value="81" />
-          <entry key="py" value="39147" />
+          <entry key="py" value="40819" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="81" />
           <entry key="PLAIN_TEXT" value="253" />
-          <entry key="Python" value="39145" />
+          <entry key="Python" value="40817" />
           <entry key="RegExp" value="2" />
         </counts>
       </usages-collector>
@@ -197,13 +190,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_16_-args和--kwargs的强制参数签名.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="164">
+              <caret line="38" selection-start-line="38" selection-start-column="2" selection-end-line="62" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_17_在类上强制使用编程规约.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -222,9 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_13_实现数据模型的类型约束.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/code_14_实现自定义容器.py" />
-        <option value="$PROJECT_DIR$/chapter_08_类与对象/test.py" />
         <option value="$PROJECT_DIR$/chapter_08_类与对象/code_15_属性的代理访问.py" />
         <option value="$PROJECT_DIR$/chapter_08_类与对象/code_16_补充.py" />
         <option value="$PROJECT_DIR$/chapter_08_类与对象/code_17_在类中定义多个构造器.py" />
@@ -273,6 +268,9 @@
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_13_3_补充_元类实现缓存实例.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_test_3.py" />
         <option value="$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py" />
+        <option value="$PROJECT_DIR$/chapter_09_元编程/code_15_定义有可选参数的元类.py" />
+        <option value="$PROJECT_DIR$/chapter_09_元编程/code_16_-args和--kwargs的强制参数签名.py" />
+        <option value="$PROJECT_DIR$/chapter_09_元编程/code_17_在类上强制使用编程规约.py" />
       </list>
     </option>
   </component>
@@ -282,8 +280,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="668" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="630" />
+    <option name="y" value="35" />
     <option name="width" value="697" />
     <option name="height" value="715" />
   </component>
@@ -295,6 +294,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,7 +311,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,7 +319,7 @@
     <property name="SearchEverywhereHistoryKey" value="wrap&#9;null&#9;null&#10;chain&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../my_python_book" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
@@ -342,51 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code_test_3">
-    <configuration name="code_13_使用元类控制实例的创建" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="book_14_Python_cook_book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_13_使用元类控制实例的创建.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code_13_2_补充_元类实现单例" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="book_14_Python_cook_book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_13_2_补充_元类实现单例.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.code_16_-args和--kwargs的强制参数签名">
     <configuration name="code_13_3_补充_元类实现缓存实例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="book_14_Python_cook_book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -401,6 +356,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_13_3_补充_元类实现缓存实例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_14_捕获类的属性定义顺序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="book_14_Python_cook_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_15_定义有可选参数的元类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="book_14_Python_cook_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_15_定义有可选参数的元类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_16_-args和--kwargs的强制参数签名" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="book_14_Python_cook_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_16_-args和--kwargs的强制参数签名.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,42 +452,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_test_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="book_14_Python_cook_book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09_元编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09_元编程/code_test_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.code_13_使用元类控制实例的创建" />
-      <item itemvalue="Python.code_13_2_补充_元类实现单例" />
       <item itemvalue="Python.code_13_3_补充_元类实现缓存实例" />
-      <item itemvalue="Python.code_test_4" />
       <item itemvalue="Python.code_test_3" />
+      <item itemvalue="Python.code_14_捕获类的属性定义顺序" />
+      <item itemvalue="Python.code_15_定义有可选参数的元类" />
+      <item itemvalue="Python.code_16_-args和--kwargs的强制参数签名" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code_16_-args和--kwargs的强制参数签名" />
+        <item itemvalue="Python.code_15_定义有可选参数的元类" />
+        <item itemvalue="Python.code_14_捕获类的属性定义顺序" />
         <item itemvalue="Python.code_test_3" />
         <item itemvalue="Python.code_13_3_补充_元类实现缓存实例" />
-        <item itemvalue="Python.code_13_2_补充_元类实现单例" />
-        <item itemvalue="Python.code_test_4" />
-        <item itemvalue="Python.code_13_使用元类控制实例的创建" />
       </list>
     </recent_temporary>
   </component>
@@ -504,15 +503,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="0" width="697" height="715" extended-state="1" />
-    <editor active="true" />
+    <frame x="630" y="35" width="697" height="715" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.49763033" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49763033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31130436" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31130436" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,17 +534,17 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31130436" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897195" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32869565" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32781458" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3294702" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32781458" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -562,27 +560,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Tools/Python/Lib/bisect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_16_补充.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_17_在类中定义多个构造器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_test_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -636,9 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
-          <folding>
-            <element signature="e#47#69#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,13 +633,7 @@
     <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/foo.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_24_补充.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_24_补充.py" />
     <entry file="file://$PROJECT_DIR$/chapter_08_类与对象/code_23_循环引用数据结构的内存管理.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -705,9 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#47#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding>
-            <element signature="e#67#94#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,9 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="e#77#106#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -752,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#120#156#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,9 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#85#96#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,9 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="e#47#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,9 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-          <folding>
-            <element signature="e#268#295#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,13 +859,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_test_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_test_4.py" />
     <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_13_2_补充_元类实现单例.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -940,12 +881,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py">
+    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_15_定义有可选参数的元类.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="272">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_14_捕获类的属性定义顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_16_-args和--kwargs的强制参数签名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="38" selection-start-line="38" selection-start-column="2" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09_元编程/code_17_在类上强制使用编程规约.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
